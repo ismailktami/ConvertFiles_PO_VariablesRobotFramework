@@ -1,0 +1,449 @@
+msgid "common.toastr.genericErrorTitle"
+msgstr "English"
+
+msgid "common.error.401Content"
+msgstr "Vous n'êtes pas autorisé à accéder à ce contenu. Merci de retourner à la page d'authentification en cliquant sur le lien ci-dessous."
+
+msgid "common.error.401LoginButton"
+msgstr "IDENTIFIANT"
+
+msgid "common.error.401Title"
+msgstr "401 - Non autorisé"
+
+msgid "common.error.403HomeButton"
+msgstr "ACCUEIL"
+
+msgid "common.error.403Title"
+msgstr "403 - Accès interdit"
+
+msgid "common.error.403LogoutContent"
+msgstr "Ou vous pouvez vous déconnecter de l'application."
+
+msgid "common.error.404Content"
+msgstr "La page demandée n'existe pas. Merci de retourner à la page d'accueil en cliquant sur le lien ci-dessous."
+
+msgid "common.error.404Title"
+msgstr "404 - Page non trouvée"
+
+msgid "common.error.errorMessage"
+msgstr "Oups, tout ne s'est pas passé comme prévu."
+
+msgid "common.error.KEYTOBEDEFINED"
+msgstr "Champ requis non renseigné"
+
+msgid "common.breadcrumb.endingStatements"
+msgstr "Bilan de fin de détention"
+
+msgid "common.global.all"
+msgstr "Tous"
+
+msgid "common.global.new"
+msgstr "Nouveau"
+
+msgid "common.status.validated"
+msgstr "Validés"
+
+msgid "common.status.disputed"
+msgstr "En discussion"
+
+msgid "common.status.resupplyRequsted"
+msgstr "Réapprovisionnement demandé"
+
+msgid "common.status.onSiteCheckeckRequested"
+msgstr "Visite sur site demandée"
+
+msgid "common.listOfAllVehicles"
+msgstr "Tous les vehicules"
+
+msgid "common.global.vin"
+msgstr "VIN"
+
+msgid "common.global.make"
+msgstr "Marque"
+
+msgid "common.global.protocol"
+msgstr "Ensemble de véhicules"
+
+msgid "common.global.contract"
+msgstr "Nom du Client"
+
+msgid "common.global.makeModel"
+msgstr "Marque / Modèle	"
+
+msgid "common.global.validationDeadline"
+msgstr "Date de validation maximum"
+
+msgid "common.global.inspectionCost"
+msgstr "Coût Inspection"
+
+msgid "common.global.invoiceable"
+msgstr "Facturable"
+
+msgid "common.global.site"
+msgstr "Nom du lieu de stockage"
+
+msgid "common.global.status"
+msgstr "Statut"
+
+msgid "common.title.general.information"
+msgstr "Information Générale"
+
+msgid "common.global.modelVersion"
+msgstr "Modèle / version"
+
+msgid "common.global.exteriorColor"
+msgstr "Couleur extérieure"
+
+msgid "common.global.siteEntry"
+msgstr "Entrée site"
+
+msgid "common.global.registrationNum"
+msgstr "N° d'immatriculation"
+
+msgid "common.totals.title"
+msgstr "Totaux"
+
+msgid "Montant facturable total"
+msgstr "Total chargeable amount"
+
+msgid "common.defects"
+msgstr "Défauts"
+
+msgid "common.total.title"
+msgstr "Total"
+
+msgid "common.sortBy"
+msgstr "Trier par"
+
+msgid "common.modal.validation"
+msgstr "Confirmation de validation"
+
+msgid "common.correction.bodyWorkCost"
+msgstr "Carrosserie"
+
+msgid "common.correction.paintCost"
+msgstr "Coût Peinture"
+
+msgid "common.correction.materialCost"
+msgstr "Coût ingrédient"
+
+msgid "common.correction.partPrice"
+msgstr "Prix pièce"
+
+msgid "common.correction.discountedPartPrice"
+msgstr "Prix pièce remisé"
+
+msgid "common.correction.lumpsumCost"
+msgstr "Forfait"
+
+msgid "common.global.bodyworkeRate"
+msgstr "Taux carosserie"
+
+msgid "common.global.materialRate"
+msgstr "Taux peinture"
+
+msgid "common.global.siteSet"
+msgstr "Nom du lieu de stockage"
+
+msgid "common.global.onSiteCheckRequestDate"
+msgstr "Date de demande de visite sur site"
+
+msgid "common.global.paintRate"
+msgstr "Taux peinture"
+
+msgid "common.global.inspectionDate"
+msgstr "Date d'inspection"
+
+msgid "common.filter"
+msgstr "Filtre"
+
+msgid "common.selectYourFilterFirst"
+msgstr "Merci de sélectionner un filtre"
+
+msgid "common.pleaseChangeYourSearchCriteria"
+msgstr "Veuillez modifier vos critères de recherche"
+
+msgid "common.button.home"
+msgstr "Page d'accueil"
+
+msgid "common.button.back"
+msgstr "Retour"
+
+msgid "common.button.validate"
+msgstr "Valider"
+
+msgid "common.button.close.details"
+msgstr "Masquer les détails"
+
+msgid "common.button.view.details"
+msgstr "Voir les détails"
+
+msgid "common.button.declareDisagreement"
+msgstr "Declarer un désaccord"
+
+msgid "common.button.resupply"
+msgstr "Réapprovisionnement"
+
+msgid "common.button.cancel"
+msgstr "Annuler"
+
+msgid "common.toastr.success"
+msgstr "Réussite"
+
+msgid "common.toastr.error"
+msgstr "Erreur"
+
+msgid "common.noData"
+msgstr "Pas de données"
+
+msgid "common.noResultFound"
+msgstr "Aucun résultat trouvé"
+
+msgid "common.noDefectsHasBeenYet"
+msgstr "Aucun défaut remonté"
+
+msgid "common.totals.message"
+msgstr "Montant total du facturable"
+
+msgid "common.breadcrumb.accessForbiddent"
+msgstr "Accès interdit"
+
+msgid "common.breadcrumb.pageNotFound"
+msgstr "Page non trouvée"
+
+msgid "common.title.declareDisagreement"
+msgstr "Déclaration de désaccord"
+
+msgid "common.comment.label"
+msgstr "Détails du désaccord"
+
+msgid "common.comment.place"
+msgstr "Argumenter votre désaccord"
+
+msgid "common.button.validate-disagreement"
+msgstr "Déclarer un désaccord"
+
+msgid "common.button.cancel-disagreement"
+msgstr "Annuler un désaccord"
+
+msgid "common.message.disagreement"
+msgstr "La soumission de votre désaccord va générer un dossier."
+
+msgid "common.global.Corrections"
+msgstr "Corrections"
+
+msgid "common.disagreementCategorization.place"
+msgstr "Choisir une catégorie"
+
+msgid "common.toastr.error.to.cancel.disagreement"
+msgstr "Erreur lors de l'annulation du désaccord"
+
+msgid "common.toastr.error.to.declare.disagreement"
+msgstr "Erreur dans la déclaration du désaccord"
+
+msgid "common.noModification"
+msgstr "Aucune modification"
+
+msgid "common.button.reset"
+msgstr "Réinitialiser"
+
+msgid "common.please.wait"
+msgstr "Veuillez patienter"
+
+msgid "common.modal.validation.msg"
+msgstr "Vous êtes sur le point de valider le bilan de fin de détention du véhicule {{params}}. La validation clôturera le transfert du véhicule. Etes-vous sûr de vouloir valider le transfert ?"
+
+msgid "common.modal.validation.msg.all"
+msgstr "Vous êtes sur le point de valider le(s) bilan(s) de fin de détention des véhicules"
+
+msgid "common.modal.validation.msg.all-2"
+msgstr "La validation clôturera le transfert du véhicule. Etes-vous sur de vouloir valider le transfert ?"
+
+msgid "common.breadcrumb.fleetHoldingTransfer"
+msgstr "Transfert de flotte"
+
+msgid "common.button.disputeResolution"
+msgstr "RESOLUTION DE DESACCORD"
+
+msgid "common.disagreementResolution.title"
+msgstr "Résolution de désaccord pour {{params}}"
+
+msgid "common.disagreementTheme"
+msgstr "Thème du désaccord"
+
+msgid "common.global.Summary"
+msgstr "Sommaire"
+
+msgid "common.disagreementAmount"
+msgstr "Montant du désaccord"
+
+msgid "common.disagreementResolutionDefined"
+msgstr "Résolution de désaccord (à définir)"
+
+msgid "common.disagreementResolutionDetails"
+msgstr "Détails du désaccord"
+
+msgid "common.radio.undoDisagreement"
+msgstr "Annuler le désaccord"
+
+msgid "common.radio.closeDisagreement"
+msgstr "Clôturer le désaccord"
+
+msgid "common.radio.proposeResolution"
+msgstr "Proposer une résolution"
+
+msgid "common.typeResolution.label"
+msgstr "Type de résolution"
+
+msgid "common.comment"
+msgstr "Commentaire"
+
+msgid "common.typeResolution.place"
+msgstr "Sélectionnez une résolution"
+
+msgid "common.resolutionProposal.label"
+msgstr "Proposition de résolution"
+
+msgid "common.toastr.success.SubmitResolutionProposition"
+msgstr "La proposition de résolution a été envoyée"
+
+msgid "common.toastr.error.SubmitResolutionProposition"
+msgstr "Une erreur s'est produite lors de l'envoi de la proposition de résolution"
+
+msgid "common.button.disputeResolution.view"
+msgstr "Voir le désaccord"
+
+msgid "common.disagreementResolution"
+msgstr "Résolution de désaccord"
+
+msgid "common.dateOfDisagreement"
+msgstr "Date du désaccord"
+
+msgid "common.disagreementResolutionDefined.view"
+msgstr "Editer la résolution de désaccord"
+
+msgid "common.button.disagreement.view"
+msgstr "Voir le désaccord"
+
+msgid "common.accept.proposal"
+msgstr "Acceptez-vous cette proposition?"
+
+msgid "common.radio.yes"
+msgstr "Oui"
+
+msgid "common.radio.no"
+msgstr "Non"
+
+msgid "common.toastr.error.to.load.img"
+msgstr "Erreur de chargement des photos"
+
+msgid "common.propose.resolution"
+msgstr "Proposer une résolution"
+
+msgid "common.comment.reject.place"
+msgstr "Expliquez votre refus"
+
+msgid "common.requested.plural"
+msgstr "modifications demandées"
+
+msgid "common.requested.singl"
+msgstr "modification demandée"
+
+msgid "common.title.cancelDisagreement"
+msgstr "Annulation du désaccord"
+
+msgid "common.propose.resolution.accepted"
+msgstr "Résolution acceptée"
+
+msgid "common.propose.resolution.rejected"
+msgstr "Résolution rejetée"
+
+msgid "common.global.Comment"
+msgstr "Commentaire"
+
+msgid "common.go.back"
+msgstr "Retour"
+
+msgid "common.message.remaining.for.days"
+msgstr "{{params}} jours restants avant délai limite de validation"
+
+msgid "common.message.remaining.for.one.day"
+msgstr "{{params}} jour restant avant délai limite de validation"
+
+msgid "common.message.remaining.for.hours"
+msgstr "{{params}} heures restantes avant délai limite de validation"
+
+msgid "common.message.remaining.for.letss.hours"
+msgstr "1 heure avant délai limite de validation"
+
+msgid "common.warning"
+msgstr "Attention"
+
+msgid "common.dismiss"
+msgstr "Rejeter"
+
+msgid "common.toastr.error.server"
+msgstr "Erreur Serveur 500"
+
+msgid "common.button.ok"
+msgstr "OK"
+
+msgid "common.undo.disagreement"
+msgstr "Annuler l'ouverture de désaccord"
+
+msgid "common.radio.undo.disagreement"
+msgstr "Annuler l'ouverture de désaccord"
+
+msgid "common.date.of.disagreement.label"
+msgstr "Date du désaccord"
+
+msgid "common.label.additionnalCost"
+msgstr "Coût additionnel"
+
+msgid "common.global.name"
+msgstr "Dénomination"
+
+msgid "common.title.HAHAHA.HAHAHAQ"
+msgstr "HAHAHA Automotive Solutions"
+
+msgid "common.breadcrumb.endingStatements.title"
+msgstr "Bilan de fin de détention : {{params}}"
+
+msgid "common.title.all.vehicles"
+msgstr "Tous les véhicules"
+
+msgid "common.button.print.pdf"
+msgstr "Impression du rapport"
+
+msgid "common.raport.inspection"
+msgstr "Rapport d'inspection {{params}}"
+
+msgid "common.not.pending.validation"
+msgstr "There is no validation in {{params}} at the moment."
+
+msgid "common.status.Open dispute"
+msgstr "Open dispute"
+
+msgid "common.status.Validated"
+msgstr "Validated"
+
+msgid "common.status.Pending validation"
+msgstr "Pending validation"
+
+msgid "common.toastr.warning"
+msgstr "Attention"
+
+msgid "common.pfd.not.exsite"
+msgstr "Pas de rapport PDF existant"
+
+msgid "common.pdf.error"
+msgstr "Erreur de téléchargement"
+
+msgid "common.validation.no"
+msgstr "Aucune validation n'a été ajoutée"
+
+msgid "common.global.of"
+msgstr "of"
+
+msgid "common.global.rows.per.line"
+msgstr "Rows per line:"

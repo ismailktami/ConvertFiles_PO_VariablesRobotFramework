@@ -1,0 +1,152 @@
+*** Variables ***
+
+${common.toastr.genericErrorTitle}	English
+${common.error.401Content}	Vous n'êtes pas autorisé à accéder à ce contenu. Merci de retourner à la page d'authentification en cliquant sur le lien ci-dessous.
+${common.error.401LoginButton}	IDENTIFIANT
+${common.error.401Title}	401 - Non autorisé
+${common.error.403HomeButton}	ACCUEIL
+${common.error.403Title}	403 - Accès interdit
+${common.error.403LogoutContent}	Ou vous pouvez vous déconnecter de l'application.
+${common.error.404Content}	La page demandée n'existe pas. Merci de retourner à la page d'accueil en cliquant sur le lien ci-dessous.
+${common.error.404Title}	404 - Page non trouvée
+${common.error.errorMessage}	Oups, tout ne s'est pas passé comme prévu.
+${common.error.KEYTOBEDEFINED}	Champ requis non renseigné
+${common.breadcrumb.endingStatements}	Bilan de fin de détention
+${common.global.all}	Tous
+${common.global.new}	Nouveau
+${common.status.validated}	Validés
+${common.status.disputed}	En discussion
+${common.status.resupplyRequsted}	Réapprovisionnement demandé
+${common.status.onSiteCheckeckRequested}	Visite sur site demandée
+${common.listOfAllVehicles}	Tous les vehicules
+${common.global.vin}	VIN
+${common.global.make}	Marque
+${common.global.protocol}	Ensemble de véhicules
+${common.global.contract}	Nom du Client
+${common.global.makeModel}	Marque / Modèle	
+${common.global.validationDeadline}	Date de validation maximum
+${common.global.inspectionCost}	Coût Inspection
+${common.global.invoiceable}	Facturable
+${common.global.site}	Nom du lieu de stockage
+${common.global.status}	Statut
+${common.title.general.information}	Information Générale
+${common.global.modelVersion}	Modèle / version
+${common.global.exteriorColor}	Couleur extérieure
+${common.global.siteEntry}	Entrée site
+${common.global.registrationNum}	N° d'immatriculation
+${common.totals.title}	Totaux
+${Montant facturable total}	Total chargeable amount
+${common.defects}	Défauts
+${common.total.title}	Total
+${common.sortBy}	Trier par
+${common.modal.validation}	Confirmation de validation
+${common.correction.bodyWorkCost}	Carrosserie
+${common.correction.paintCost}	Coût Peinture
+${common.correction.materialCost}	Coût ingrédient
+${common.correction.partPrice}	Prix pièce
+${common.correction.discountedPartPrice}	Prix pièce remisé
+${common.correction.lumpsumCost}	Forfait
+${common.global.bodyworkeRate}	Taux carosserie
+${common.global.materialRate}	Taux peinture
+${common.global.siteSet}	Nom du lieu de stockage
+${common.global.onSiteCheckRequestDate}	Date de demande de visite sur site
+${common.global.paintRate}	Taux peinture
+${common.global.inspectionDate}	Date d'inspection
+${common.filter}	Filtre
+${common.selectYourFilterFirst}	Merci de sélectionner un filtre
+${common.pleaseChangeYourSearchCriteria}	Veuillez modifier vos critères de recherche
+${common.button.home}	Page d'accueil
+${common.button.back}	Retour
+${common.button.validate}	Valider
+${common.button.close.details}	Masquer les détails
+${common.button.view.details}	Voir les détails
+${common.button.declareDisagreement}	Declarer un désaccord
+${common.button.resupply}	Réapprovisionnement
+${common.button.cancel}	Annuler
+${common.toastr.success}	Réussite
+${common.toastr.error}	Erreur
+${common.noData}	Pas de données
+${common.noResultFound}	Aucun résultat trouvé
+${common.noDefectsHasBeenYet}	Aucun défaut remonté
+${common.totals.message}	Montant total du facturable
+${common.breadcrumb.accessForbiddent}	Accès interdit
+${common.breadcrumb.pageNotFound}	Page non trouvée
+${common.title.declareDisagreement}	Déclaration de désaccord
+${common.comment.label}	Détails du désaccord
+${common.comment.place}	Argumenter votre désaccord
+${common.button.validate-disagreement}	Déclarer un désaccord
+${common.button.cancel-disagreement}	Annuler un désaccord
+${common.message.disagreement}	La soumission de votre désaccord va générer un dossier.
+${common.global.Corrections}	Corrections
+${common.disagreementCategorization.place}	Choisir une catégorie
+${common.toastr.error.to.cancel.disagreement}	Erreur lors de l'annulation du désaccord
+${common.toastr.error.to.declare.disagreement}	Erreur dans la déclaration du désaccord
+${common.noModification}	Aucune modification
+${common.button.reset}	Réinitialiser
+${common.please.wait}	Veuillez patienter
+${common.modal.validation.msg}	Vous êtes sur le point de valider le bilan de fin de détention du véhicule {{params}}. La validation clôturera le transfert du véhicule. Etes-vous sûr de vouloir valider le transfert ?
+${common.modal.validation.msg.all}	Vous êtes sur le point de valider le(s) bilan(s) de fin de détention des véhicules
+${common.modal.validation.msg.all-2}	La validation clôturera le transfert du véhicule. Etes-vous sur de vouloir valider le transfert ?
+${common.breadcrumb.fleetHoldingTransfer}	Transfert de flotte
+${common.button.disputeResolution}	RESOLUTION DE DESACCORD
+${common.disagreementResolution.title}	Résolution de désaccord pour {{params}}
+${common.disagreementTheme}	Thème du désaccord
+${common.global.Summary}	Sommaire
+${common.disagreementAmount}	Montant du désaccord
+${common.disagreementResolutionDefined}	Résolution de désaccord (à définir)
+${common.disagreementResolutionDetails}	Détails du désaccord
+${common.radio.undoDisagreement}	Annuler le désaccord
+${common.radio.closeDisagreement}	Clôturer le désaccord
+${common.radio.proposeResolution}	Proposer une résolution
+${common.typeResolution.label}	Type de résolution
+${common.comment}	Commentaire
+${common.typeResolution.place}	Sélectionnez une résolution
+${common.resolutionProposal.label}	Proposition de résolution
+${common.toastr.success.SubmitResolutionProposition}	La proposition de résolution a été envoyée
+${common.toastr.error.SubmitResolutionProposition}	Une erreur s'est produite lors de l'envoi de la proposition de résolution
+${common.button.disputeResolution.view}	Voir le désaccord
+${common.disagreementResolution}	Résolution de désaccord
+${common.dateOfDisagreement}	Date du désaccord
+${common.disagreementResolutionDefined.view}	Editer la résolution de désaccord
+${common.button.disagreement.view}	Voir le désaccord
+${common.accept.proposal}	Acceptez-vous cette proposition?
+${common.radio.yes}	Oui
+${common.radio.no}	Non
+${common.toastr.error.to.load.img}	Erreur de chargement des photos
+${common.propose.resolution}	Proposer une résolution
+${common.comment.reject.place}	Expliquez votre refus
+${common.requested.plural}	modifications demandées
+${common.requested.singl}	modification demandée
+${common.title.cancelDisagreement}	Annulation du désaccord
+${common.propose.resolution.accepted}	Résolution acceptée
+${common.propose.resolution.rejected}	Résolution rejetée
+${common.global.Comment}	Commentaire
+${common.go.back}	Retour
+${common.message.remaining.for.days}	{{params}} jours restants avant délai limite de validation
+${common.message.remaining.for.one.day}	{{params}} jour restant avant délai limite de validation
+${common.message.remaining.for.hours}	{{params}} heures restantes avant délai limite de validation
+${common.message.remaining.for.letss.hours}	1 heure avant délai limite de validation
+${common.warning}	Attention
+${common.dismiss}	Rejeter
+${common.toastr.error.server}	Erreur Serveur 500
+${common.button.ok}	OK
+${common.undo.disagreement}	Annuler l'ouverture de désaccord
+${common.radio.undo.disagreement}	Annuler l'ouverture de désaccord
+${common.date.of.disagreement.label}	Date du désaccord
+${common.label.additionnalCost}	Coût additionnel
+${common.global.name}	Dénomination
+${common.title.HAHAHA.HAHAHAQ}	HAHAHA Automotive Solutions
+${common.breadcrumb.endingStatements.title}	Bilan de fin de détention : {{params}}
+${common.title.all.vehicles}	Tous les véhicules
+${common.button.print.pdf}	Impression du rapport
+${common.raport.inspection}	Rapport d'inspection {{params}}
+${common.not.pending.validation}	There is no validation in {{params}} at the moment.
+${common.status.Open dispute}	Open dispute
+${common.status.Validated}	Validated
+${common.status.Pending validation}	Pending validation
+${common.toastr.warning}	Attention
+${common.pfd.not.exsite}	Pas de rapport PDF existant
+${common.pdf.error}	Erreur de téléchargement
+${common.validation.no}	Aucune validation n'a été ajoutée
+${common.global.of}	of
+${common.global.rows.per.line}	Rows per line:
