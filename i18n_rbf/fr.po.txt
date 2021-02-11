@@ -7,7 +7,7 @@ ${common.error.401Title}	401 - Non autorisé
 ${common.error.403HomeButton}	ACCUEIL
 ${common.error.403Title}	403 - Accès interdit
 ${common.error.403LogoutContent}	Ou vous pouvez vous déconnecter de l'application.
-${common.error.404Content}	La page demandée n'existe pas. Merci de retourner à la page d'accueil en cliquant sur le lien ci-dessous.
+${common.error.404Content}    La page demandée n'existe pas. Merci de retourner à la page d'accueil en cliquant sur le lien ci-dessous.
 ${common.error.404Title}	404 - Page non trouvée
 ${common.error.errorMessage}	Oups, tout ne s'est pas passé comme prévu.
 ${common.error.KEYTOBEDEFINED}	Champ requis non renseigné
