@@ -1,6 +1,6 @@
 *** Variables ***
 
-${common.toastr.genericErrorTitle}	Erreur
+${common.toastr.genericErrorTitle}	English
 ${common.error.401Content}	Vous n'êtes pas autorisé à accéder à ce contenu. Merci de retourner à la page d'authentification en cliquant sur le lien ci-dessous.
 ${common.error.401LoginButton}	IDENTIFIANT
 ${common.error.401Title}	401 - Non autorisé
